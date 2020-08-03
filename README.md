@@ -1,7 +1,7 @@
 # SimpleTodo
 Simple  Todo App for Codepath
 
-# Project 1 - *Simple Tod*
+# Project 1 - *Simple Todo App*
 
 **Simple Todo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
@@ -39,7 +39,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Ekene Uzoegwu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
